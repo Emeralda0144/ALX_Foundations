@@ -3,7 +3,7 @@
 `C`  `Bash`
 
 ## Welcome to the Matrix!
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2021/2/cdc24ca146228a91564ccd17686cf1d13764896e.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230211%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230211T092917Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=2e6610fe5121519f3f4e0b0f4257b99b4b83c4f9eb87732b2cfd14d145df27db )
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2021/2/cdc24ca146228a91564ccd17686cf1d13764896e.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230211%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230211T092917Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=2e6610fe5121519f3f4e0b0f4257b99b4b83c4f9eb87732b2cfd14d145df27db)
 This project will (probably) be your first experience with an Unix terminal!
 
 For this project, please start and connect to your Sandbox `Ubuntu 20.04`.
