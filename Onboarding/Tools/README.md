@@ -47,7 +47,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ### Tasks
 
-0. Create me!
+### 0. Create me!
 
 Access your sandbox and:
 * Change your working directory to `/root`
@@ -57,7 +57,7 @@ Access your sandbox and:
 * Don’t forget to validate your current working directory
 * Don’t forget to display the list of files of your current directory to validate the creation of the new file
 
-1. More of me
+### 1. More of me
 
 Access your sandbox and:
 * Change your working directory to `/root`
@@ -67,7 +67,7 @@ Access your sandbox and:
 * Don’t forget to validate your current working directory
 * Don’t forget to display the list of files of your current directory to validate the copy of the file
 
-2. To old
+### 2. To old
 
 Access your sandbox and:
 * Change your working directory to `/root`
@@ -77,7 +77,7 @@ Access your sandbox and:
 * Don’t forget to validate your current working directory
 * Don’t forget to display the list of files of your current directory to validate the renaming of the file
 
-3. Not here
+### 3. Not here
 
 Access your sandbox and:
 * Change your working directory to `/root`
@@ -87,7 +87,7 @@ Access your sandbox and:
 * Don’t forget to validate your current working directory
 * Don’t forget to display the list of files of your current directory to validate the move of the file
 
-4. Not anymore
+### 4. Not anymore
 
 Access your sandbox and:
 * Change your working directory to `/root`
@@ -97,7 +97,7 @@ Access your sandbox and:
 * Don’t forget to validate your current working directory
 * Don’t forget to display the list of files of your current directory to validate the removal of the file
 
-5. Organization is key!
+### 5. Organization is key!
 
 Access your sandbox and:
 * Change your working directory to `/root`
@@ -107,7 +107,7 @@ Access your sandbox and:
 * Don’t forget to validate your current working directory
 * Don’t forget to display the list of directories of your current directory to validate the creation of the directory
 
-6. No need
+### 6. No need
 
 Access your sandbox and:
 * Change your working directory to `/root`
@@ -116,6 +116,8 @@ Access your sandbox and:
 **Advices:**
 * Don’t forget to validate your current working directory
 * Don’t forget to display the list of directories of your current directory to validate the removal of the directory.
+
+
 
 
 # 0x01. Git
@@ -174,7 +176,8 @@ $ git push origin main
 ```
 
 ## Tasks
-0. Create and setup your Git and GitHub account
+
+### 0. Create and setup your Git and GitHub account
 
 ### Step 0 - Create an account on GitHub [if you do not have one already]
 You will need a GitHub account for all your projects at ALX. If you do not already have a github.com account, you can create an account for free [here](https://github.com/)
@@ -193,7 +196,7 @@ Update your Intranet profile by adding your Github username [here](https://intra
 If it’s not done **the Checker won’t be able to correct your work**
 ![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2022/2/6270480a0a982cd1846b877eda2ee405d2e8f575.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230211%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230211T094830Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=64a97474603ed613a64b02d0018b156704952ab20f182b194087a0dd447bb685)
 
-Step 3 - Create your first repository
+### Step 3 - Create your first repository
 Using the graphic interface on the [github website](https://github.com/), create your first repository.
 
 * Name: `alx-pre_course`
@@ -202,12 +205,12 @@ Using the graphic interface on the [github website](https://github.com/), create
 * No `README`, `.gitignore`, or license
 ![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2022/2/2340a2d0f7c74b5dd6f8fc2aa58f94d13ea2c775.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230211%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230211T094830Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=7cb5d3f6ee8c4eb6102748286c97fd0c9182fd116dc0618a35f938ff87bd8305)
 
-Step 4 - Open the sandbox
+### Step 4 - Open the sandbox
 On the intranet, just under the task, click on the button ![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2022/2/9db8eece71455dfddf4b7d8585c037c535f1d18d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230211%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230211T094830Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=43ee4fcad7762a392d54dd547329ea2a1ff4406072c573ce1e7025ca8d31a161) and run to start the machine.
 
 Once the container is started, click on ![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2022/2/be9d1fbfb3d97e6924a4d2af7df9290ad7ae77df.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230211%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230211T094830Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=718254c61111a44a5bd8afc8b1f87f00be577b124c9b616a4b1cb0d1504cbcc4) to open a shell where you can start work from.
 
-Step 5 - Clone your repository
+### Step 5 - Clone your repository
 
 On the webterm of the sandbox, do the following:
 * Clone your repository
@@ -281,7 +284,7 @@ For the moment we have an empty project directory containing only a `README.md`.
 	* Add all these new files to git
 	* Commit your changes (message: “Starting to code today, so cool”) and push to the remote server
 
-3. Collaboration is the base of a company
+### 3. Collaboration is the base of a company
 
 A branch is like a copy of your project. It’s used mainly for:
 * adding a feature in development
@@ -308,7 +311,7 @@ Ho wait, your manager needs a quick fix in your project and it needs to be deplo
 
 Ouf, hot fix is done!
 
-4. Collaboration: be up to date
+### 4. Collaboration: be up to date
 Of course, you can also work on the same branch as your co-workers and it’s best if you keep up to date with their changes.
 
 For this task – **and only for this task** – please update your file `README.md` in the main branch from GitHub.com. It’s the `only time` you are allowed to update and commit from GitHub interface.
@@ -318,7 +321,7 @@ After you have done that, in your terminal:
 * Create a new file `up_to_date` at the root of your directory and in it, write the git command line used
 * Add `up_to_date` to git, commit (message: “How to be up to date in git”), and push to the origin
 
-5. HAAA what did you do???
+### 5. HAAA what did you do???
 Collaboration is cool, but not really when you update the same file at the same time…
 
 To illustrate that, please merge the branch `update_script` to `main`: “Cool, all my changes will be now part of the main branch, ready to be deployed!”
